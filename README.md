@@ -7,8 +7,8 @@ A small 32-bit MIPS CPU written in Verilog. Core based on Sarah L. Harris MIPS C
 # TODO
 
 1. Design basic blocks:
-    - [ ] program counter
-    - [ ] instruction memory
+    - [x] program counter
+    - [x] instruction memory
     - [ ] data memory
     - [ ] register file
     - [ ] ALU
