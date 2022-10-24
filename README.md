@@ -9,7 +9,7 @@ A small 32-bit MIPS CPU written in Verilog. Core based on Sarah L. Harris MIPS C
 1. Design basic blocks:
     - [x] program counter
     - [x] instruction memory
-    - [ ] data memory
+    - [x] data memory
     - [x] register file
     - [ ] ALU
     - [ ] main decoder
