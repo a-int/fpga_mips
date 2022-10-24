@@ -10,7 +10,7 @@ A small 32-bit MIPS CPU written in Verilog. Core based on Sarah L. Harris MIPS C
     - [x] program counter
     - [x] instruction memory
     - [ ] data memory
-    - [ ] register file
+    - [x] register file
     - [ ] ALU
     - [ ] main decoder
     - [ ] ALU decoder
