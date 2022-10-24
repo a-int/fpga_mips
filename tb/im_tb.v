@@ -1,6 +1,6 @@
 `include "im.v"
 
-module testbench;
+module im_tb;
 	reg[31:0] a;
 	wire[31:0] c;
 	im mem(a, c);

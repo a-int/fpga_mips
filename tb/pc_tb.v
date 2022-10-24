@@ -1,5 +1,5 @@
 `include "pc.v"
-module testbench;
+module pc_tb;
 	reg[31:0] pc_next;
 	reg clk;
 	wire[31:0] pc;
