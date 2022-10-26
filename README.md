@@ -12,8 +12,8 @@ A small 32-bit MIPS CPU written in Verilog. Core based on Sarah L. Harris MIPS C
     - [x] data memory
     - [x] register file
     - [ ] ALU
-    - [ ] main decoder
-    - [ ] ALU decoder
+    - [x] main decoder
+    - [x] ALU decoder
 2. Add testbenches for blocks
 3. Add commands
     - R-type
